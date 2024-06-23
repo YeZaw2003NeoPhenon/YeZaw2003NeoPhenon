@@ -2,7 +2,7 @@
 -⭐⚡ Exploring programming is something I find intriguing
 - 🤙 I’m looking to collaborate on some small project, With all due pretty diligent perspectives, I'm genuinely obsessed with an internship at Google.
 - 🧠🧠 Fun fact: I sometimes splash out some hours on Leetcode. I even get involved in brain teasing test with my peers.
-- 
+
 ## 🛠️ Languages and Tools:
 
 <p align="center">
