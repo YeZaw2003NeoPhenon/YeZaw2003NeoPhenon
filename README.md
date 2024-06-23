@@ -46,7 +46,9 @@
       </section>
    </article>
 </p>
-<p align="center">
+
+<section>
+  <p align="center">
   <a href="https://leetcode.com/u/NeoPhenonmanon/" target="_blank" aria-label = "leetCodeImg">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
@@ -54,9 +56,10 @@
     <img src="https://img.shields.io/badge/Git%20Bash-4F4F4F?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash"/>
   </a>
   <a href="https://apidog.com/" target="_blank">
-    <img src="https://img.shields.io/badge/API%20Dog-009688?style=for-the-badge&logo=api&logoColor=white" alt="API Dog"/>
+    <img src="https://img.shields.io/badge/API%20Dog-0D47A1?style=for-the-badge&logo=api&logoColor=white" alt="API Dog"/>
   </a>
 </p>
+</section>
 
 ## 📫 Contact Me:
 <p align = "center">
