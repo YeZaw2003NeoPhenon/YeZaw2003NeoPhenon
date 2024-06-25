@@ -1,7 +1,9 @@
-👋 Hi, I’m @NeoPhenon (YE ZAW WIN)
-⭐⚡ Exploring programming is something I find intriguing
-🤙 I’m looking to collaborate on some small projects. With all due diligence and genuine passion, I'm obsessed with the idea of an internship at Google.
+👋 Hi!, I’m @NeoPhenon (YE ZAW WIN)
+🌟⚡ Exploring programming is something I find intriguing
+📈 I’m looking to collaborate on some small projects. With all due diligence and genuine passion, I'm obsessed with the idea of an internship at Google.
 🧠🧠 Fun fact: I sometimes splash out some hours on Leetcode. I even get involved in brain-teasing tests with my peers.
+📚📚 Im presently immersed in studying for GED exam and enhancing my programming knowleadges by delving into React.js. 
+
 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
