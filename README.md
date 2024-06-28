@@ -1,6 +1,6 @@
  <div>
         <article>
-          <ol style = "list-style-type:none; display:flex; flex-direction: column; gap: 10px; font-family:Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;">
+          <ol>
             <li>👋 Hi!, I’m @NeoPhenon (YE ZAW WIN)</li>
             <li>🌟⚡ Exploring programming is something I find intriguing</li>
             <li>📈 I’m enchanted to shell out any snappy collaboration on small projects. With all due diligence and genuine passion, I'm obsessed with the idea of an internship at Google.</li>
