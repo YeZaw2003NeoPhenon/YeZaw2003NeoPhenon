@@ -13,11 +13,11 @@
 🛠️ Languages and Tools:
 <section>
  <p align="center">
-  <a href="https://www.java.com/" target="_blank">
+   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
-  <a href="https://spring.io/projects/spring-framework" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
+  <a href="https://spring.io/projects/spring-mvc" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20MVC-4CAF50?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
   </a>
   <a href="https://spring.io/projects/spring-security" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
