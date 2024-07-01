@@ -23,7 +23,8 @@
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
   </a>
    <a href="https://spring.io/projects/spring-rest" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
+    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev
+     to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffwvtpnx07it7lkq6e4bq.png" alt="Spring REST API" style="height: 40px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
