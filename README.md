@@ -22,8 +22,8 @@
   <a href="https://spring.io/projects/spring-security" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
   </a>
-  <a href="https://spring.io/projects/spring-rest" target="_blank">
-    <img src="/mnt/data/Best Spring Boot Tutorial for Beginners.jfif" alt="Spring REST" style="width:100px;height:50px;"/>
+ <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring REST"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
