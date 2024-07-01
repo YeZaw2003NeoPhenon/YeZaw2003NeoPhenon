@@ -11,7 +11,8 @@
       </div>
 
 🛠️ Languages and Tools:
-<p align="center">
+<section>
+ <p align="center">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
@@ -20,6 +21,9 @@
   </a>
   <a href="https://spring.io/projects/spring-security" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+  </a>
+  <a href="https://spring.io/projects/spring-rest" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring REST"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -36,6 +40,9 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   </a>
+   <a href="https://reactrouter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+  </a>
   <a href="https://formik.org/" target="_blank">
     <img src="https://img.shields.io/badge/React%20Formik-FF4154?style=for-the-badge&logo=formik&logoColor=white" alt="React Formik"/>
   </a>
@@ -51,9 +58,8 @@
   <a href="https://mybatis.org/" target="_blank">
     <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis"/>
   </a>
-      </section>
-   </article>
 </p>
+</section>
 
 <section>
   <p align="center">
