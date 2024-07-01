@@ -22,8 +22,8 @@
   <a href="https://spring.io/projects/spring-security" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
   </a>
-  <a href="https://spring.io/projects/spring-rest" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20REST%20API-4CAF50?style=for-the-badge&logo=spring&logoColor=white" alt="Spring REST API"/>
+   <a href="https://spring.io/projects/spring-rest" target="_blank">
+    <img src="https://raw.githubusercontent.com/NeoPhenon/NeoPhenon/main/spring-rest.png" style="height: 28px; margin-bottom: -5px;" alt="Spring REST API"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
