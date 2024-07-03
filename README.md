@@ -63,7 +63,7 @@
 
 <section>
   <p align="center">
-  <a href="https://leetcode.com/u/NeoPhenonmanon/" target="_blank" aria-label = "leetCodeImg">
+  <a href = "https://leetcode.com/u/NeoCourney/" target="_blank" aria-label = "leetCodeImg">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
    <a href="https://gitforwindows.org/" target="_blank">
