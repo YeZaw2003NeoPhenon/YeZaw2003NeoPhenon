@@ -5,7 +5,7 @@
             <li>🌟⚡ Exploring programming is something I find intriguing</li>
             <li>📈 I’m enchanted to shell out any snappy collaboration on small projects. With all due diligence and genuine passion, I'm obsessed with the idea of an internship at Google.</li>
             <li>🧠🧠 Fun fact: I sometimes splash out some hours on Leetcode. I even get involved in brain-teasing tests with my peers.</li>
-            <li>📚📚 I'm presently immersed in studying for the GED exam and enhancing my programming knowledge by delving into React.js.</li>
+            <li>📚📚 I'm presently immersed in studying for the GED exam and enhancing my programming knowledge by delving into <span style = "text:bold; color:blue;"> React Native && JWT</span></li>
           </ol>
         </article>
       </div>
