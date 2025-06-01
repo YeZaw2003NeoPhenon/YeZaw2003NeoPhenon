@@ -1,11 +1,11 @@
  <div>
         <article>
           <ol>
-            <li>👋 Hi!, I’m @NeoPhenon (YE ZAW WIN)</li>
-            <li>🌟⚡ Exploring programming is something I find intriguing</li>
-            <li>📈 I’m enchanted to shell out any snappy collaboration on small projects. With all due diligence and genuine passion, I'm obsessed with the idea of an internship at Google.</li>
+            <li>👋 Hi!, I’m @Neo (YE ZAW WIN)</li>
+            <li>🌟⚡ Exploring programming is something I find tremendously intriguing</li>
+            <li>📈 I’m enchanted to shell out any vivacious collaboration on small projects. With all due diligence and genuine passion, I'm obsessed with the idea of an internship at Google. That is my beguiling dream job and I learn, build and step into new things affirmatively every day to get into it</li>
             <li>🧠🧠 Fun fact: I sometimes splash out some hours on Leetcode. I even get involved in brain-teasing tests with my peers.</li>
-            <li>📚📚 I'm presently immersed in studying for the GED exam and enhancing my programming knowledge by delving into <span style = "text:bold; color:blue;"> React Native && JWT</span></li>
+             <li>💼 I'm currently applying for **junior-level developer positions** with great enthusiasm and dedication.</li>
           </ol>
         </article>
       </div>
@@ -57,6 +57,15 @@
   </a>
   <a href="https://mybatis.org/" target="_blank">
     <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis"/>
+  </a>
+    <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
 </p>
 </section>
