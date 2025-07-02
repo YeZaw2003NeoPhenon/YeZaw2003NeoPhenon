@@ -1,4 +1,4 @@
-<div>
+        <div>
         <article>
           <ol>
             <li>👋 Hi!, I’m @Neo (YE ZAW WIN)</li>
@@ -84,15 +84,20 @@
 </p>
 </section>
 
-## 📫 Contact Me:
-<p align = "center">
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:winzawyair@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/NeoCourney/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://gitforwindows.org/">
     <img src="https://img.shields.io/badge/Git%20Bash-4F4F4F?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://apidog.com/">
-    <img src="https://img.shields.io/badge/API%20Dog-0D47A1?style=for-the-badge&logo=api&logoColor=white" />
-  </a>
 </p>
+
