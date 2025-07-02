@@ -73,7 +73,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YeZaw2003NeoPhenon&show_icons=true&theme=tokyonight&hide_title=true&hide=stars,prs,issues,contribs&count_private=true&custom_title=Java%20Commits%20&%20Activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=YeZaw2003NeoPhenon&show_icons=true&theme=graywhite&title_color=000000&icon_color=007396&text_color=000000&bg_color=ffffff&custom_title=Java%20Commits%20&%20Activity&hide=stars,prs,issues,contribs" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeZaw2003NeoPhenon&layout=compact&langs_count=5&hide=python,c,cpp,jupyter%20notebook&custom_title=Most%20Used%20Languages" />
 </p>
