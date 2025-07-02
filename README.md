@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NeoCourney&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NeoCourney&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=YeZaw2003NeoPhenon&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YeZaw2003NeoPhenon&show_icons=true&theme=default" />
 </p>
 
 
