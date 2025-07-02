@@ -74,7 +74,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YeZaw2003NeoPhenon&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YeZaw2003NeoPhenon&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeZaw2003NeoPhenon&layout=compact&langs_count=5&hide=python,c,cpp,jupyter%20notebook&custom_title=Most%20Used%20Languages" />
 </p>
 
 
