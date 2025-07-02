@@ -73,9 +73,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=NeoCourney&show_icons=true&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api?username=NeoCourney&show_icons=true&theme=default" />
 </p>
 
