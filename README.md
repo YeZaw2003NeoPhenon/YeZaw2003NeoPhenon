@@ -74,9 +74,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YeZaw2003NeoPhenon&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeZaw2003NeoPhenon&layout=compact&langs_count=5&hide=python,c,cpp,jupyter%20notebook&custom_title=Most%20Used%20Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeZaw2003NeoPhenon&layout=compact&langs_count=5&hide=python,c,cpp,jupyter%20notebook&custom_title=Most%20Used%20Languages" />
 </p>
-
 
 <section>
   <p align="center">
@@ -103,9 +102,6 @@
   </a>
   <a href="https://leetcode.com/u/NeoCourney/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://gitforwindows.org/">
-    <img src="https://img.shields.io/badge/Git%20Bash-4F4F4F?style=for-the-badge&logo=git&logoColor=white" />
   </a>
 </p>
 
